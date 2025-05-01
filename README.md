@@ -1,5 +1,11 @@
 # Sample-Efficient Reinforcement Learning with Temporal Logic Objectives: Leveraging the Task Specification to Guide Exploration
 
+***Yiannis Kantaros, Jun Wang***
+
+Washington University in St Louis
+
+[IEEE Transaction on Automatic Control](https://ieeexplore.ieee.org/abstract/document/10726789)
+
 ## How to use the code 
 
 #### Input
